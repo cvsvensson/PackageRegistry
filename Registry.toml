@@ -3,3 +3,4 @@ uuid = "dc946a83-ac77-4875-bb3f-218a8d619e5a"
 repo = "https://github.com/cvsvensson/PackageRegistry"
 
 [packages]
+312194fd-fec5-4b07-ba1c-a40d7013a56a = { name = "QuantumDots", path = "Q/QuantumDots" }
