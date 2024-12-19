@@ -3,13 +3,27 @@ AbstractDifferentiation = "0.6"
 AxisKeys = "0.2"
 BlockDiagonals = "0.1"
 Crayons = "4"
-Dictionaries = "0.3 - 0.4"
-FillArrays = "1"
 LinearMaps = "3"
-Reexport = "1"
-SciMLBase = "1 - 2"
-SkewLinearAlgebra = ["0.1", "1"]
 SparseArrays = "1"
 SplitApplyCombine = "1"
 StaticArrays = "1"
+
+["0 - 0.9"]
+Dictionaries = "0.3 - 0.4"
+FillArrays = "1"
+Reexport = "1"
+SciMLBase = "1 - 2"
+SkewLinearAlgebra = ["0.1", "1"]
 julia = "1.8.2 - 1"
+
+["0.13 - 0"]
+Dictionaries = "0.4"
+FillArrays = "1.13.0 - 1"
+LinearAlgebra = "1"
+OrderedCollections = "1.6.0 - 1"
+PrecompileTools = "1"
+SciMLBase = "2"
+SkewLinearAlgebra = "1"
+TermInterface = "2"
+TestItems = "1"
+julia = "1.10.0 - 1"
